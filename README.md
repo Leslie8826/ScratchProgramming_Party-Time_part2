@@ -1,4 +1,4 @@
-# Lesson 7: Party-Time_part2
+# Lesson 8: Party-Time_part2
 
 ## Author
 Leslie8826
