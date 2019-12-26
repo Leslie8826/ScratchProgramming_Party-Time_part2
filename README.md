@@ -12,7 +12,7 @@ Fall 2019
 ## Difficulty
 Normal
 
-## Objectives: 
+## Objectives 
   - Students will be able to: 
        * understand how to implement blocks according to a scenario between 3 sprites
        * work with 3 sprites at the same time
