@@ -1,18 +1,20 @@
-# Lesson 8: Party Time (part 2)
+# Scratch Programming
 
-## Author
+## Lesson 8: Party Time (part 2)
+
+### Author
 Leslie8826
 
-## Audience 
+### Audience 
 Middle School Students
 
-## Term
+### Term
 Fall 2019
 
-## Difficulty
+### Difficulty
 Normal
 
-## Objectives 
+### Objectives 
   - Students will be able to: 
        * understand how to implement blocks according to a scenario between 3 sprites
        * work with 3 sprites at the same time
@@ -29,6 +31,6 @@ Normal
        * wait block
        * move block
 
-## Outcome
+### Output
 https://scratch.mit.edu/projects/351574185 <br>
 This anmation is a choreography between 3 sprites with music and changes of backgrounds 3 times
