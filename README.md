@@ -3,7 +3,8 @@
 ## Lesson 8: Party Time (part 2)
 
 ### Author
-Leslie8826
+Leslie8826 (Github platform) 
+Leslie_Instructor (Scratch platform)
 
 ### Audience 
 Middle School Students
